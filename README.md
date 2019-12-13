@@ -8,7 +8,7 @@ Delete => delete
 
 Install all required packages
 Inside the project folder run cmd  just type 
-$ npm-install-all
+$ npm install all
 OR
 Install all packages one by one
 
