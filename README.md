@@ -12,8 +12,6 @@ $ npm-install-all
 OR
 Install all packages one by one
 
-$ npm init -y
-
 $ npm install express
 
 $ npm install nodemon
