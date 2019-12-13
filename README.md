@@ -22,3 +22,6 @@ $ npm install body-parser
 
 $ npm install morgan
 
+for connection create 
+.env file
+MONGO_URI = connection_string
